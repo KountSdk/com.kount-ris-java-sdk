@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.kountSDK</groupId>
+    <groupId>com.github.kountSdk</groupId>
     <artifactId>kount-java-parent</artifactId>
     <version>1.0.3</version>
   </parent>
 
-  <groupId>com.kountSDK</groupId>
+  <groupId>com.github.kountSdk</groupId>
   <artifactId>sdk-integration-tests</artifactId>
   <version>1.0.3</version>
   <name>sdk-integration-tests</name>
@@ -20,7 +20,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.kountSDK</groupId>
+      <groupId>com.github.kountSdk</groupId>
       <artifactId>kount-ris-sdk</artifactId>
       <version>1.0.3</version>
     </dependency>

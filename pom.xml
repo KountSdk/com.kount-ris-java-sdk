@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.kountSDK</groupId>
+	<groupId>com.github.kountSdk</groupId>
 	<artifactId>kount-java-parent</artifactId>
 	<version>1.0.3</version>
 	<packaging>pom</packaging>
@@ -130,9 +130,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:Kount/kount-ris-java-sdk.git</connection>
-		<developerConnection>scm:git:git@github.com:Kount/kount-ris-java-sdk.git.git</developerConnection>
-		<url>scm:git:git@github.com:Kount/kount-ris-java-sdk.git.git</url>
+		<connection>scm:git:git@github.com:KountSdk/com.kount-ris-java-sdk.git</connection>
+		<developerConnection>scm:git:git@github.com:KountSdk/com.kount-ris-java-sdk.git.git</developerConnection>
+		<url>scm:git:git@github.com:KountSdk/com.kount-ris-java-sdk.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<profiles>
@@ -143,7 +143,7 @@
 	<developers>
 		<developer>
 			<name>Kount support Team</name>
-			<email>bigyanb5@gmail.com</email>
+			<email>cuteeadyasha@gmail.com</email>
 			<organization>Kount support Team</organization>
 		</developer>
 	</developers>

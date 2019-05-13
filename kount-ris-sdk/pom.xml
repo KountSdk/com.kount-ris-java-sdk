@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.kountSDK</groupId>
+    <groupId>com.github.kountSdk</groupId>
 	<artifactId>kount-java-parent</artifactId>
 	<version>1.0.3</version>
   </parent>
 
-  <groupId>com.kountSDK</groupId>
+  <groupId>com.github.kountSdk</groupId>
   <artifactId>kount-ris-sdk</artifactId>
   <version>1.0.3</version>
   <packaging>jar</packaging>

@@ -1,11 +1,5 @@
-# README #
-
 Kount Java SDK
-
-### What is this repository for? ###
-
-* Contains sources, tests, and resources for the Kount Java SDK
-* SDK version: `7.1.0`
+==============
 
 ### How do I get set up? ###
 
@@ -15,7 +9,7 @@ Kount Java SDK
     * `JDK/JRE 1.7+`
 * How to build the SDK and run integration tests
     * setup maven
-    * run `mvn clean install -DargLine="-Dkount.config.key='...'"` in root directory (if characters like `"`, `\``, or `'` are present, they need to be escaped)
+    * run `mvn clean install -DargLine="-Dkount.config.key='...'"` in root directory
 * Setting up IDE projects
     * `eclipse` - run `mvn eclipse:eclipse` and import as existing project
     * IDEA - IDEA has automatic maven integration
@@ -29,9 +23,4 @@ Kount Java SDK
     * code cleanliness (no unused imports, variables, methods)
     * code complexity
     * tests
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
 
